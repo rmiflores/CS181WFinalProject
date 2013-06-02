@@ -1,0 +1,13 @@
+/* Main stylesheet for CS181W Final Project */
+
+h1, h2, h3, footer, p {
+	text-align: center;
+}
+
+footer {
+	color: gray;
+}
+
+.navbar {
+	background-position: fixed;
+}
