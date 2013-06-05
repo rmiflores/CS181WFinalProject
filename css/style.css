@@ -1,13 +1,23 @@
 /* Main stylesheet for CS181W Final Project */
 
-h1, h2, h3, footer, p {
-	text-align: center;
-}
+h1, h2, h3, footer { text-align: center; font-family: 'Raleway'; }
 
-footer {
-	color: gray;
-}
+h4 { font-family: 'Raleway'; font-weight: bold; }
 
-.navbar {
-	background-position: fixed;
-}
+body { padding: 0 5%; }
+
+footer { color: gray; }
+
+p { line-height: 2; font-family: 'Open Sans'; }
+
+a { text-decoration: none; color: purple; }
+
+.centered { text-align: center; }
+
+.floatRight { float: right; margin: 2%; }
+
+#logo { width: 22%; }
+
+#sopapipa { width: 20%; }
+
+#ethics { width: 100%; }
