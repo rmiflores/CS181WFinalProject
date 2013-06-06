@@ -16,8 +16,12 @@ a { text-decoration: none; color: purple; }
 
 .floatRight { float: right; margin: 2%; }
 
+.bold { font-weight: bold; }
+
 #logo { width: 22%; }
 
 #sopapipa { width: 20%; }
 
 #ethics { width: 100%; }
+
+#indiaStats { width: 40%; }
